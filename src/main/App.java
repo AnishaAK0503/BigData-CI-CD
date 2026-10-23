@@ -1,7 +1,7 @@
 ,public class App {
 
     public static void main(String[] args) {
-        System.out.println("Hello from CI/CD Pipeline!");
+        System.out.println("Hello  CI/CD Pipeline!");
     }
 
     public static String message() {

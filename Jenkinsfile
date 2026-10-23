@@ -10,7 +10,6 @@ pipeline {
                 bat 'mvn clean package -DskipTests'
             }
         }
-
         stage('Test') {
             steps {
                 echo 'Running tests...'
